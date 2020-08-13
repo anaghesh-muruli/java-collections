@@ -3,7 +3,7 @@ package remover;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Main {
+public class MainClass {
     public static void removeOggy(ArrayList<String> names) {
         return;
     }
